@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarekbselah98
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Dev
+- 💞️ I’m looking to collaborate on >>
 - 📫 How to reach me tarekbselah@gmail.com
 
 <!---
